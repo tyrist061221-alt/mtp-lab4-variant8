@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+.DS_Store
+data/students_passed.csv
